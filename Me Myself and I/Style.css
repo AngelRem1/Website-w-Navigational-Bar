@@ -1,0 +1,32 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #37EC01;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+}
+body{
+background-image: -webkit-gradient(linear,  left top,  left bottom, 
+  color-stop(0.00, red), 
+  color-stop(16%, orange),
+  color-stop(32%, yellow),
+  color-stop(48%, green),
+  color-stop(60%, blue),
+  color-stop(76%, indigo),
+  color-stop(1.00, violet));
+}
+h1 {
+color: pink
+}
+p{
+color: red
+}
